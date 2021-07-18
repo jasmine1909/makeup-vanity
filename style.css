@@ -299,7 +299,7 @@ ul li {
 
   .footer-wrapper {
     display: grid;
-    grid-template-columns: 500px 200px 200px 200px;
+    grid-template-columns: repeat(4,1fr);
     grid-gap: 2rem;
   }
 }
