@@ -17,5 +17,5 @@ const sr = ScrollReveal({
 sr.reveal('.trend-item', { delay: 350, origin: 'left' })
 sr.reveal('.featured-item', { delay: 350, origin: 'right' })
 
-sr.reveal('.blog-item', ".footer-item", { delay: 200, origin: 'up' })
+sr.reveal('.blog-item', ".footer-item", { delay: 200, origin: 'bottom' })
 
